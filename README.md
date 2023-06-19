@@ -1,6 +1,7 @@
 # Games library 
 
 This is a no JS, beginner friendly project.
+This project is hosted at : https://vacool6.github.io/games-library-no-JS/
 
 ## Getting started
 
