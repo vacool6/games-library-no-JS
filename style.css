@@ -42,11 +42,11 @@ a {
   font-weight: 700;
 }
 
-a:nth-of-type(1),
+/* a:nth-of-type(1),
 .label {
   color: goldenrod;
   text-decoration: underline;
-}
+} */
 
 .section1 {
   display: flex;
